@@ -183,17 +183,17 @@ WWW << cb;
 
 ### The `Request` contains few data fields:
 
-`req.query_url` - url, that you have provided by `url("https://www.example.com")`;
-`req.effective_url` - url, that you have redirected by "Location:" header;
-`headers_out` - response headers;
-`body_out` - response content;
-`filenameout` - filename with content;
-`error` - error description;
-`content_type` - content type;
-`user_data` - pointer to user data;
-`response_status` - status code;
-`file_time` - the remote time of the retrieved document;
-`getCookies()` - set cookies from response headers;
+`req.query_url` - url, that you have provided by `url("https://www.example.com")`;\
+`req.effective_url` - url, that you have redirected by "Location:" header;\
+`headers_out` - response headers;\
+`body_out` - response content;\
+`filenameout` - filename with content;\
+`error` - error description;\
+`content_type` - content type;\
+`user_data` - pointer to user data;\
+`response_status` - status code;\
+`file_time` - the remote time of the retrieved document;\
+`getCookies()` - set cookies from response headers;\
 
 
 
