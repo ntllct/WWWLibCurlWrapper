@@ -188,7 +188,7 @@ WWW << cb;
 `headers_out` - response headers;\
 `body_out` - response content;\
 `filenameout` - filename with content;\
-`error` - error description;\
+`error` - error message;\
 `content_type` - content type;\
 `user_data` - pointer to user data;\
 `response_status` - status code;\

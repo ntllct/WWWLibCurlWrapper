@@ -63,7 +63,7 @@ For more information see:
 [Example 1](examples/example_sync.cpp)\
 [Example 2](examples/example_async.cpp)\
 [Example 3](examples/example_combined.cpp)\
-[Example 4](src/test.cpp)\
+[Example 4](src/test.cpp)
 
 [API](README_API.md)
 
